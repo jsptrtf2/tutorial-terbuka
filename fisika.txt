@@ -1,5 +1,7 @@
 Materi Fisika
 
 - Hukum Coulumb
+  * Gaya Listrik
+  * Medan Listrik
 - Hukum Gauss
 - Potensial Listrik
