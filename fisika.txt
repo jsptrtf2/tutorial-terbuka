@@ -8,3 +8,4 @@ Materi Fisika
 - Potensial Listrik
 - Listrik bolak-balik
 - Medan magnet
+  * Gaya magnet
