@@ -6,3 +6,5 @@ Materi Fisika
 - Hukum Gauss
 - Potensial Listrik
 - Listrik bolak-balik
+- Medan Magnet
+- Relativitas
