@@ -6,6 +6,8 @@ Materi Fisika
   * Hukum Ohm
 - Hukum Gauss
 - Potensial Listrik
+
+- Rangkaian Listrik
 - Listrik bolak-balik
 
 - Relativitas
@@ -14,4 +16,7 @@ Materi Fisika
 
 - Medan magnet
   * Gaya magnet
+  * Hukum lenz
+
+- Fisika kuantm
 
