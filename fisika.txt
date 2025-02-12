@@ -5,3 +5,4 @@ Materi Fisika
   * Medan Listrik
 - Hukum Gauss
 - Potensial Listrik
+- Listrik bolak-balik
