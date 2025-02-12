@@ -3,6 +3,8 @@ Materi Fisika
 - Hukum Coulumb
   * Gaya Listrik
   * Medan Listrik
+  * Hukum Ohm
 - Hukum Gauss
 - Potensial Listrik
 - Listrik bolak-balik
+- Medan magnet
