@@ -8,3 +8,5 @@ Materi Fisika
 - Listrik bolak-balik
 - Medan Magnet
 - Relativitas
+  * Umum
+  * Khusus
