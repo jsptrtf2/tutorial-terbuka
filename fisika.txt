@@ -7,7 +7,9 @@ Materi Fisika
 - Hukum Gauss
 - Potensial Listrik
 
+
 - Rangkaian listrik
+
 - Listrik bolak-balik
 
 - Relativitas
@@ -19,4 +21,5 @@ Materi Fisika
   * Hukum Lenz
 
 - Fisika Kuantum
+
 
